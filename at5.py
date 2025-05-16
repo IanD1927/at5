@@ -5,4 +5,4 @@ dias = int(input("quantos dias trabalhados: "))
 
 soma = valor * horas * dias
 
-print("ola {} o valor a ser pago e de R${} ".format(nome, soma))
+print("ola {} o valor pago e de R${} ".format(nome, soma))
